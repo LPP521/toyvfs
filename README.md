@@ -2,7 +2,7 @@
 一个 python 实现的虚拟文件系统，提供基本的文件增删改查功能
 
 ## 例子
-```
+```python
 from toy_vfs import ToyVfs
 
 
